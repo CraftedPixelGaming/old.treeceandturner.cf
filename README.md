@@ -1,6 +1,6 @@
 # treeceandturner.cf
 this is the old website of T&T.
 
-new website: https://treeceandturner.cf
+To acces the old website go to https://old.treeceandturner.cf/
 
 new website will be transfered to github pages soon...
